@@ -10,9 +10,9 @@
 
 <img src="./assets/h-projects.svg" width="100%" alt="projects" />
 
-<a href="https://github.com/Priyansu-Rout/breast-cancer-prognosis"><img src="./assets/proj1.svg" width="49%" alt="Breast Cancer Prognosis" /></a>
+<a href="https://github.com/Priyansu-Rout/Breast-Cancer-Prognosis-Subtype-Classification-Using-Clinical-and-Genomic-Data"><img src="./assets/proj1.svg" width="49%" alt="Breast Cancer Prognosis" /></a>
 <a href="https://github.com/Priyansu-Rout/resume-analyzer-pro"><img src="./assets/proj2.svg" width="49%" alt="Resume Analyzer Pro" /></a>
-<a href="https://github.com/Priyansu-Rout/diabetes-prediction"><img src="./assets/proj3.svg" width="49%" alt="Diabetes Prediction" /></a>
+<a href="https://github.com/Priyansu-Rout/diabetes-mlp-prediction"><img src="./assets/proj3.svg" width="49%" alt="Diabetes MLP Prediction" /></a>
 <a href="https://github.com/Priyansu-Rout/rag-study-assistant"><img src="./assets/proj4.svg" width="49%" alt="RAG Study Assistant" /></a>
 
 <img src="./assets/h-stats.svg" width="100%" alt="github stats" />
@@ -29,8 +29,8 @@
 <img src="./assets/h-contact.svg" width="100%" alt="contact" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Priyansu--Rout-0d1c18?style=for-the-badge&logo=github&logoColor=3ddc97)](https://github.com/Priyansu-Rout)
-[![Email](https://img.shields.io/badge/Email-priyansu.rout%40gmail.com-0d1c18?style=for-the-badge&logo=gmail&logoColor=3ddc97)](mailto:priyansu.rout@gmail.com)
+[![Email](https://img.shields.io/badge/Email-priyansurout369%40gmail.com-0d1c18?style=for-the-badge&logo=gmail&logoColor=3ddc97)](mailto:priyansurout369@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-priyansu--rout.github.io-0d1c18?style=for-the-badge&logo=googlechrome&logoColor=3ddc97)](https://priyansu-rout.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1c18?style=for-the-badge&logo=linkedin&logoColor=3ddc97)](https://linkedin.com/in/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1c18?style=for-the-badge&logo=linkedin&logoColor=3ddc97)](https://www.linkedin.com/in/priyansu-rout-06a40834b)
 
 </div>
